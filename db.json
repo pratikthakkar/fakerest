@@ -1,17 +1,17 @@
-{
-  "comments": [
-    {
-      "id": 1,
-      "user":5
-      "comment": "hello",
-      "children":{
-       "id": 2,
-      "user":3,
-      "comment": "children1"
-    }
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{  
+   "comments":[  
+      {  
+         "id":1,
+         "user":5,
+         "comment":"hello",
+         "children":{  
+            "id":2,
+            "user":3,
+            "comment":"children1"
+         }
+      }
+   ],
+   "profile":{  
+      "name":"typicode"
+   }
 }
