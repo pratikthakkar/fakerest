@@ -1,17 +1,48 @@
 {  
-   "comments":[  
+   "ok":true,
+   "members":[  
       {  
-         "id":1,
-         "user":5,
-         "comment":"hello",
-         "children":{  
-            "id":2,
-            "user":3,
-            "comment":"children1"
-         }
+         "id":"UBWGMUH4K",
+         "team_id":"TBY0L0VLN",
+         "name":"pratik102",
+         "deleted":false,
+         "color":"9f69e7",
+         "real_name":"Pratik",
+         "tz":"Asia/Kolkata",
+         "tz_label":"India Standard Time",
+         "tz_offset":19800,
+         "profile":{  
+            "title":"",
+            "phone":"",
+            "skype":"",
+            "real_name":"Pratik",
+            "real_name_normalized":"Pratik",
+            "display_name":"pratik",
+            "display_name_normalized":"pratik",
+            "status_text":"",
+            "status_emoji":"",
+            "status_expiration":0,
+            "avatar_hash":"g37e4c378a02",
+            "email":"pratik102@hotmail.com",
+            "image_24":"https://secure.gravatar.com/avatar/37e4c378a02da376ec552e043a71919a.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F0180%2Fimg%2Favatars%2Fava_0017-24.png",
+            "image_32":"https://secure.gravatar.com/avatar/37e4c378a02da376ec552e043a71919a.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0017-32.png",
+            "image_48":"https://secure.gravatar.com/avatar/37e4c378a02da376ec552e043a71919a.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0017-48.png",
+            "image_72":"https://secure.gravatar.com/avatar/37e4c378a02da376ec552e043a71919a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0017-72.png",
+            "image_192":"https://secure.gravatar.com/avatar/37e4c378a02da376ec552e043a71919a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0017-192.png",
+            "image_512":"https://secure.gravatar.com/avatar/37e4c378a02da376ec552e043a71919a.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0017-512.png",
+            "status_text_canonical":"",
+            "team":"TBY0L0VLN"
+         },
+         "is_admin":true,
+         "is_owner":true,
+         "is_primary_owner":true,
+         "is_restricted":false,
+         "is_ultra_restricted":false,
+         "is_bot":false,
+         "is_app_user":false,
+         "updated":1532682883
       }
    ],
-   "profile":{  
-      "name":"typicode"
-   }
+   "cache_ts":1533491719,
+   "headers":{  }
 }
